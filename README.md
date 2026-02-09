@@ -93,6 +93,8 @@ How to Run the Project:-
 
 -Access in browser: API: http://127.0.0.1:8000/ Frontend: http://localhost:8501/
 
+---
+
 Key Learnings:-
 
 -Implemented end-to-end ML workflow for employee attrition prediction
