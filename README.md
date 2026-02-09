@@ -46,11 +46,13 @@ Model Details
 
 -Preprocessing:-
   MinMaxScaler for numerical features
+  
   OneHotEncoder for categorical features
   
 -Features Used:-
 
   Numerical:- Age, DistanceFromHome, Education, JobLevel, MonthlyIncome, NumCompaniesWorked, PercentSalaryHike, JobSatisfaction, WorkLifeBalance, TotalWorkingYears, YearsAtCompany, YearsWithCurrManager
+  
   Categorical:- BusinessTravel, Department, EducationField, Gender, JobRole, MaritalStatus, OverTime
   
 -Target Variable:- Attrition (Yes / No)
@@ -83,7 +85,7 @@ Frontend Features (Streamlit)
 
 ---
 
-How to Run the Project
+How to Run the Project:-
 
 -Start FastAPI backend uvicorn app:emp_app --reload
 
@@ -91,7 +93,7 @@ How to Run the Project
 
 -Access in browser: API: http://127.0.0.1:8000/ Frontend: http://localhost:8501/
 
-Key Learnings
+Key Learnings:-
 
 -Implemented end-to-end ML workflow for employee attrition prediction
 
