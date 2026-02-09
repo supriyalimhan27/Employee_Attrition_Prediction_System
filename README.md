@@ -11,9 +11,13 @@ Employee attrition can have a huge impact on business productivity and cost. Thi
 Key features:
 
 -Train a machine learning model using historical employee data
+
 -REST API built with FastAPI
+
 -Interactive Streamlit frontend for uploading data and single employee prediction
+
 -Evaluate performance using standard ML metrics
+
 -Handles both numerical and categorical employee features automatically
 
 ---
